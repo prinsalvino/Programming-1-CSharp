@@ -1,0 +1,20 @@
+C:\Users\Prins Alvino\source\repos\Assignment Week 6\Assignment 5.1\bin\Debug\Assignment 5.1.exe.config
+C:\Users\Prins Alvino\source\repos\Assignment Week 6\Assignment 5.1\bin\Debug\Assignment 5.1.exe
+C:\Users\Prins Alvino\source\repos\Assignment Week 6\Assignment 5.1\bin\Debug\Assignment 5.1.pdb
+C:\Users\Prins Alvino\source\repos\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment 5.csprojAssemblyReference.cache
+C:\Users\Prins Alvino\source\repos\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment_5._1.Form1.resources
+C:\Users\Prins Alvino\source\repos\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment_5._1.Properties.Resources.resources
+C:\Users\Prins Alvino\source\repos\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment 5.csproj.GenerateResource.cache
+C:\Users\Prins Alvino\source\repos\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\Prins Alvino\source\repos\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment 5.1.exe
+C:\Users\Prins Alvino\source\repos\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment 5.1.pdb
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 6\Assignment 5.1\bin\Debug\Assignment 5.1.exe.config
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 6\Assignment 5.1\bin\Debug\Assignment 5.1.exe
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 6\Assignment 5.1\bin\Debug\Assignment 5.1.pdb
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment 5.csprojAssemblyReference.cache
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment_5._1.Form1.resources
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment_5._1.Properties.Resources.resources
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment 5.csproj.GenerateResource.cache
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment 5.1.exe
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 6\Assignment 5.1\obj\Debug\Assignment 5.1.pdb

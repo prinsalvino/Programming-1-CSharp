@@ -1,0 +1,21 @@
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 3\bin\Debug\Practice 3.exe.config
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 3\bin\Debug\Practice 3.exe
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 3\bin\Debug\Practice 3.pdb
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 3\obj\Debug\Practice 3.csprojAssemblyReference.cache
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 3\obj\Debug\Practice 3.csproj.CoreCompileInputs.cache
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 3\obj\Debug\Practice 3.exe
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 3\obj\Debug\Practice 3.pdb
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 3\obj\Debug\Practice 3.csprojAssemblyReference.cache
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 3\obj\Debug\Practice 3.csproj.CoreCompileInputs.cache
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 3\obj\Debug\Practice 3.exe
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 3\obj\Debug\Practice 3.pdb
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 3\bin\Debug\Practice 3.exe.config
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 3\bin\Debug\Practice 3.exe
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 3\bin\Debug\Practice 3.pdb
+C:\Users\prins\Documents\College\Programming\Assignment\Practice Exam\Practice 3\bin\Debug\Practice 3.exe.config
+C:\Users\prins\Documents\College\Programming\Assignment\Practice Exam\Practice 3\bin\Debug\Practice 3.exe
+C:\Users\prins\Documents\College\Programming\Assignment\Practice Exam\Practice 3\bin\Debug\Practice 3.pdb
+C:\Users\prins\Documents\College\Programming\Assignment\Practice Exam\Practice 3\obj\Debug\Practice 3.csprojAssemblyReference.cache
+C:\Users\prins\Documents\College\Programming\Assignment\Practice Exam\Practice 3\obj\Debug\Practice 3.csproj.CoreCompileInputs.cache
+C:\Users\prins\Documents\College\Programming\Assignment\Practice Exam\Practice 3\obj\Debug\Practice 3.exe
+C:\Users\prins\Documents\College\Programming\Assignment\Practice Exam\Practice 3\obj\Debug\Practice 3.pdb

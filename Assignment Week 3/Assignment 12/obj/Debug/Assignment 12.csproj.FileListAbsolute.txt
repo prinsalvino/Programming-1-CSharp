@@ -1,0 +1,10 @@
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Assignment 12\bin\Debug\Assignment 12.exe.config
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Assignment 12\bin\Debug\Assignment 12.exe
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Assignment 12\bin\Debug\Assignment 12.pdb
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Assignment 12\obj\Debug\Assignment_12.Form1.resources
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Assignment 12\obj\Debug\Assignment_12.Properties.Resources.resources
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Assignment 12\obj\Debug\Assignment 12.csproj.GenerateResource.cache
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Assignment 12\obj\Debug\Assignment 12.csproj.CoreCompileInputs.cache
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Assignment 12\obj\Debug\Assignment 12.exe
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Assignment 12\obj\Debug\Assignment 12.pdb
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Assignment 12\obj\Debug\Assignment 12.csprojAssemblyReference.cache

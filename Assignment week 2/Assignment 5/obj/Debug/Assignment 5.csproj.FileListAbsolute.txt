@@ -1,0 +1,9 @@
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Assignment 5\obj\Debug\Assignment_5.Form1.resources
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Assignment 5\obj\Debug\Assignment_5.Properties.Resources.resources
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Assignment 5\obj\Debug\Assignment 5.csproj.GenerateResource.cache
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Assignment 5\obj\Debug\Assignment 5.pdb

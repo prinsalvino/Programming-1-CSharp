@@ -1,0 +1,10 @@
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Exercise 7\bin\Debug\Exercise 7.exe.config
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Exercise 7\bin\Debug\Exercise 7.exe
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Exercise 7\bin\Debug\Exercise 7.pdb
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Exercise 7\obj\Debug\Exercise 7.csprojAssemblyReference.cache
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Exercise 7\obj\Debug\Exercise_7.Form1.resources
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Exercise 7\obj\Debug\Exercise_7.Properties.Resources.resources
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Exercise 7\obj\Debug\Exercise 7.csproj.GenerateResource.cache
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Exercise 7\obj\Debug\Exercise 7.csproj.CoreCompileInputs.cache
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Exercise 7\obj\Debug\Exercise 7.exe
+C:\Users\Prins Alvino\source\repos\Assignment week 2\Exercise 7\obj\Debug\Exercise 7.pdb

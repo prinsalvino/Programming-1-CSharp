@@ -1,0 +1,13 @@
+C:\Users\Prins Alvino\source\repos\Assignment Week 4\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\Prins Alvino\source\repos\Assignment Week 4\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\Prins Alvino\source\repos\Assignment Week 4\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\Prins Alvino\source\repos\Assignment Week 4\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\Prins Alvino\source\repos\Assignment Week 4\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\Prins Alvino\source\repos\Assignment Week 4\Assignment 5\obj\Debug\Assignment 5.pdb
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 4\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 4\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 4\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 4\Assignment 5\obj\Debug\Assignment 5.csprojAssemblyReference.cache
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 4\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 4\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\prins\Documents\College\Programming\Assignment\Assignment Week 4\Assignment 5\obj\Debug\Assignment 5.pdb

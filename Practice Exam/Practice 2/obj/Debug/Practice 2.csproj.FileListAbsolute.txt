@@ -1,0 +1,14 @@
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 2\bin\Debug\Practice 2.exe.config
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 2\bin\Debug\Practice 2.exe
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 2\bin\Debug\Practice 2.pdb
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 2\obj\Debug\Practice 2.csprojAssemblyReference.cache
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 2\obj\Debug\Practice 2.csproj.CoreCompileInputs.cache
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 2\obj\Debug\Practice 2.exe
+C:\Users\Prins Alvino\source\repos\Practice Exam\Practice 2\obj\Debug\Practice 2.pdb
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 2\bin\Debug\Practice 2.exe.config
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 2\bin\Debug\Practice 2.exe
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 2\bin\Debug\Practice 2.pdb
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 2\obj\Debug\Practice 2.csprojAssemblyReference.cache
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 2\obj\Debug\Practice 2.csproj.CoreCompileInputs.cache
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 2\obj\Debug\Practice 2.exe
+C:\Users\Prins Alvino\Documents\College\Programming\Assignment\Practice Exam\Practice 2\obj\Debug\Practice 2.pdb

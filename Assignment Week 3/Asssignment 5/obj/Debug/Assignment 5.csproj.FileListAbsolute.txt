@@ -1,0 +1,6 @@
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Asssignment 5\bin\Debug\Asssignment 5.exe.config
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Asssignment 5\bin\Debug\Asssignment 5.exe
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Asssignment 5\bin\Debug\Asssignment 5.pdb
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Asssignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Asssignment 5\obj\Debug\Asssignment 5.exe
+C:\Users\Prins Alvino\source\repos\Assignment Week 3\Asssignment 5\obj\Debug\Asssignment 5.pdb
